@@ -3,10 +3,15 @@
 This repository contains a commented Jupyter Notebook as part of a project attempting to forecast asylum applications using data from a number of sources:
 
 [UNHCR Asylum Applications](http://popstats.unhcr.org/en/asylum_seekers_monthly)
+
 [World Bank Inflation Indices](https://data.worldbank.org/indicator/fp.cpi.totl)
+
 [ACLED conflict event data](http://acleddata.com/)
+
 [UN population data](https://population.un.org/wpp/)
+
 [WFP food prices](http://foodprices.vam.wfp.org/Analysis-Monthly-Price-DataADV.aspx)
+
 [World Bank GDP per capita data](https://data.worldbank.org/indicator/ny.gdp.pcap.cd)
 
 The task was to use some of this background information in order to predict asylum applications over a three-year period. That is, using conflict etc. data from, say, 2015 in, say Angola, to predict asylum applications from Angolans over the years 2016-2018.
